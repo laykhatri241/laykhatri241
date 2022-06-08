@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @laykhatri241
-- 👀 I’m interested in: Full Stack Development
+- 👀 Working as: Full Stack Development
 - 🌱 I’m currently learning: VueTS + .NET Core
 
 
